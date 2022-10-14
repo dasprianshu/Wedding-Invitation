@@ -2,7 +2,8 @@ import React, {Component} from "react";
 import "./Pager.css";
 import img1 from './assets/img1.png'
 import img2 from './assets/img2.png'
-import img3 from './assets/img3.jpg'
+import img3 from './assets/img3.png'
+import img4 from './assets/img4.png'
 
 class Pager extends Component{
     render() {
@@ -16,6 +17,9 @@ class Pager extends Component{
                 break;
             case 3:
                 imgSrc = img3;
+                break;
+            case 4:
+                imgSrc = img4;
                 break;
             default:
                 imgSrc = null;
