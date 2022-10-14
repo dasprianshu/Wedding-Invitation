@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/e-cards/static/css/main.e36174cd.css",
-    "main.js": "/e-cards/static/js/main.e8a771bd.js",
-    "static/media/img3.png": "/e-cards/static/media/img3.d70f5f86aa4e6801a92e.png",
-    "static/media/img2.png": "/e-cards/static/media/img2.a15238e42dabcb0fa21a.png",
-    "static/media/img4.png": "/e-cards/static/media/img4.c4160e59417ba8ba219b.png",
-    "static/media/img1.png": "/e-cards/static/media/img1.a0fc334b7e105a0fa9fe.png",
-    "index.html": "/e-cards/index.html",
-    "main.e36174cd.css.map": "/e-cards/static/css/main.e36174cd.css.map",
-    "main.e8a771bd.js.map": "/e-cards/static/js/main.e8a771bd.js.map"
+    "main.css": "/Wedding-Invitation/static/css/main.39abb5f2.css",
+    "main.js": "/Wedding-Invitation/static/js/main.fad29ce4.js",
+    "static/media/img2.png": "/Wedding-Invitation/static/media/img2.47d3daf5c46140662344.png",
+    "static/media/img1.png": "/Wedding-Invitation/static/media/img1.71d19b2967270a41227d.png",
+    "static/media/img3.png": "/Wedding-Invitation/static/media/img3.87bce41308e2de10e7c9.png",
+    "static/media/img4.png": "/Wedding-Invitation/static/media/img4.50e0d3aa3746d5002f9f.png",
+    "static/media/img5.png": "/Wedding-Invitation/static/media/img5.50301b9ff1960fb3e9d7.png",
+    "index.html": "/Wedding-Invitation/index.html",
+    "main.39abb5f2.css.map": "/Wedding-Invitation/static/css/main.39abb5f2.css.map",
+    "main.fad29ce4.js.map": "/Wedding-Invitation/static/js/main.fad29ce4.js.map"
   },
   "entrypoints": [
-    "static/css/main.e36174cd.css",
-    "static/js/main.e8a771bd.js"
+    "static/css/main.39abb5f2.css",
+    "static/js/main.fad29ce4.js"
   ]
 }
